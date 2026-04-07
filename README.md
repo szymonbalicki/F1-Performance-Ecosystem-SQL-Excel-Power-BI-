@@ -88,7 +88,7 @@
 
 ### Power BI Model
 
- ![PBI 1](./images/Start.png) 
+ ![PBI 1](./images/ModelPBI.png) 
 ---
 
 ## 📊 Key Insights / Kluczowe Wnioski
