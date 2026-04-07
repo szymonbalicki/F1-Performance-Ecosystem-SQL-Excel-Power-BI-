@@ -49,37 +49,37 @@
 * **EN:** "Driver Scorecard" reporting automation. VBA script enables exporting a professional player card to PDF with a single click.
 * **Tools:** `VBA`, `Excel Power Query`, `Automated PDF Export`.
 
-* ' Skrypt automatyzujący generowanie karty zawodnika do formatu PDF
-' Script for automated Driver Scorecard export to PDF
-Sub GenerujRaportPDF()
-    Dim nazwaPliku As String
-    Dim folder As String
-    Dim kierowca As String
+      * ' Skrypt automatyzujący generowanie karty zawodnika do formatu PDF
+      ' Script for automated Driver Scorecard export to PDF
+      Sub GenerujRaportPDF()
+       Dim nazwaPliku As String
+       Dim folder As String
+       Dim kierowca As String
     
-    ' Pobranie nazwiska kierowcy z komórki E5
-    ' Retrieving driver's name from cell E5
-    kierowca = Range("E5").Value
+      ' Pobranie nazwiska kierowcy z komórki E5
+      ' Retrieving driver's name from cell E5
+      kierowca = Range("E5").Value
     
-    ' Sanity check: zamiana spacji na podkreślenia dla poprawnej nazwy pliku
-    ' Data cleaning: replacing spaces with underscores for valid filename
-    kierowca = Replace(kierowca, " ", "_")
+      ' Sanity check: zamiana spacji na podkreślenia dla poprawnej nazwy pliku
+      ' Data cleaning: replacing spaces with underscores for valid filename
+      kierowca = Replace(kierowca, " ", "_")
     
-    ' Definiowanie ścieżki zapisu w folderze skoroszytu
-    ' Defining the save path in the workbook's directory
-    folder = ThisWorkbook.Path & "\"
-    nazwaPliku = folder & "Raport_F1_" & kierowca & ".pdf"
+      ' Definiowanie ścieżki zapisu w folderze skoroszytu
+      ' Defining the save path in the workbook's directory
+      folder = ThisWorkbook.Path & "\"
+      nazwaPliku = folder & "Raport_F1_" & kierowca & ".pdf"
     
-    ' Eksport wyznaczonego zakresu (A1:G26) do formatu PDF
-    ' Exporting the designated range (A1:G26) to PDF format
-    Range("A1:G26").ExportAsFixedFormat Type:=xlTypePDF, _
+      ' Eksport wyznaczonego zakresu (A1:G26) do formatu PDF
+      ' Exporting the designated range (A1:G26) to PDF format
+      Range("A1:G26").ExportAsFixedFormat Type:=xlTypePDF, _
         Filename:=nazwaPliku, _
         Quality:=xlQualityStandard, _
         OpenAfterPublish:=True
         
-    ' Powiadomienie o sukcesie operacji
-    ' Success notification
-    MsgBox "Raport dla kierowcy " & Replace(kierowca, "_", " ") & " został wygenerowany!", vbInformation, "Sukces"
-End Sub
+      ' Powiadomienie o sukcesie operacji
+      ' Success notification
+      MsgBox "Raport dla kierowcy " & Replace(kierowca, "_", " ") & " został wygenerowany!", vbInformation, "Sukces"
+      End Sub
 
 ### 3️⃣ Visual Analytics (Power BI)
 * **PL:** Interaktywny dashboard (Vegas Night Theme) analizujący wyniki konstruktorów. Wykorzystanie zaawansowanych technik UX dla lepszej czytelności danych.
