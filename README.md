@@ -111,7 +111,7 @@
 | ![Excel](./images/ExcelRaport.png) | ![SQL](./images/modelsql.png) |
 
 ### 💡 Power BI "Vegas Style" Dashboard
-| Overview | Driver Analysis | Team Stats | Performance Trends |
+| Overview | Driver Analysis | Races | Team Stats |
 | :---: | :---: | :---: | :---: |
 | ![PBI 1](./images/Start.png) | ![PBI 2](./images/Drivers.png) | ![PBI 3](./images/Races.png) | ![PBI 4](./images/Constructors.png) |
 
@@ -124,3 +124,4 @@
 * `/sql/` - SQL scripts & View definitions
 * `/excel/` - Automation tool (.xlsm) & sample PDF reports
 * `/power-bi/` - Dashboard file (.pbix)
+* `/images/` - Screens of all workspace
