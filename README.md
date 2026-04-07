@@ -109,8 +109,8 @@
 | :---: | :---: |
 | ![Excel](./images/ExcelRaport.png) | ![SQL](./images/modelsql.png) |
 | Power BI Dashboard |
-| :---: |:---: |:---: |:---: |
-| ![PBI](TUTAJ_LINK_DO_ZDJECIA_PBI) | ![PBI](TUTAJ_LINK_DO_ZDJECIA_PBI) | ![PBI](TUTAJ_LINK_DO_ZDJECIA_PBI) | ![PBI](TUTAJ_LINK_DO_ZDJECIA_PBI) 
+| :---: | :---: | :---: | :---: |
+| ![PBI](TUTAJ_LINK_DO_ZDJECIA_PBI) | ![PBI](TUTAJ_LINK_DO_ZDJECIA_PBI) | ![PBI](TUTAJ_LINK_DO_ZDJECIA_PBI) | ![PBI](TUTAJ_LINK_DO_ZDJECIA_PBI) |
 
 ## 🔗 Live Dashboard
 
