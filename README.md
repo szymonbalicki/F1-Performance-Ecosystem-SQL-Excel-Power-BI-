@@ -105,12 +105,15 @@
 
 ## 🖼️ Gallery / Galeria
 
- Excel Scorecard (PDF) | SQL Logic |
+### 📊 Operational Tools & Logic
+| Excel Scorecard (PDF) | SQL Logic |
 | :---: | :---: |
 | ![Excel](./images/ExcelRaport.png) | ![SQL](./images/modelsql.png) |
-| Power BI Dashboard |
+
+### 💡 Power BI "Vegas Style" Dashboard
+| Overview | Driver Analysis | Team Stats | Performance Trends |
 | :---: | :---: | :---: | :---: |
-| ![PBI](TUTAJ_LINK_DO_ZDJECIA_PBI) | ![PBI](TUTAJ_LINK_DO_ZDJECIA_PBI) | ![PBI](TUTAJ_LINK_DO_ZDJECIA_PBI) | ![PBI](TUTAJ_LINK_DO_ZDJECIA_PBI) |
+| ![PBI 1](./images/pbi1.png) | ![PBI 2](./images/pbi2.png) | ![PBI 3](./images/pbi3.png) | ![PBI 4](./images/pbi4.png) |
 
 ## 🔗 Live Dashboard
 
