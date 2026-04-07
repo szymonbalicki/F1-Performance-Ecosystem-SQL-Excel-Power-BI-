@@ -107,7 +107,8 @@
 
 | Power BI Dashboard | Excel Scorecard (PDF) | SQL Logic |
 | :---: | :---: | :---: |
-| ![PBI](TUTAJ_LINK_DO_ZDJECIA_PBI) | ![Excel](./images/ExcelRaport.png) | ![SQL](./images/modelsql.png) |
+| ![Excel](./images/ExcelRaport.png) | ![SQL](./images/modelsql.png) |
+| ![PBI](TUTAJ_LINK_DO_ZDJECIA_PBI) 
 
 ## 🔗 Live Dashboard
 
