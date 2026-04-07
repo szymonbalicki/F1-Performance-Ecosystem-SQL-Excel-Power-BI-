@@ -86,6 +86,8 @@
 * **EN:** Interactive dashboard (Vegas Night Theme) analyzing constructor performance. Advanced UX techniques used for better data storytelling.
 * **Tools:** `DAX`, `Bookmarks`, `Selection Pane`, `Conditional Formatting`.
 
+### Power BI Model
+| ![PBI 1](./images/Start.png) |
 ---
 
 ## 📊 Key Insights / Kluczowe Wnioski
