@@ -113,7 +113,7 @@
 ### 💡 Power BI "Vegas Style" Dashboard
 | Overview | Driver Analysis | Team Stats | Performance Trends |
 | :---: | :---: | :---: | :---: |
-| ![PBI 1](./images/pbi1.png) | ![PBI 2](./images/pbi2.png) | ![PBI 3](./images/pbi3.png) | ![PBI 4](./images/pbi4.png) |
+| ![PBI 1](./images/Start.png) | ![PBI 2](./images/Drivers.png) | ![PBI 3](./images/Races.png) | ![PBI 4](./images/Constructors.png) |
 
 ## 🔗 Live Dashboard
 
