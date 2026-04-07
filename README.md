@@ -87,6 +87,7 @@
 * **Tools:** `DAX`, `Bookmarks`, `Selection Pane`, `Conditional Formatting`.
 
 ### Power BI Model
+
 | ![PBI 1](./images/Start.png) |
 ---
 
