@@ -8,7 +8,7 @@
 * **PL:** Konsolidacja 5 tabel relacyjnych w zoptymalizowany widok `v_Driver_Scorecard_Final`. Implementacja logiki biznesowej (np. metryka *Positions Gained*).
 * **EN:** Consolidating 5 relational tables into an optimized `v_Driver_Scorecard_Final` view. Business logic implementation (e.g., *Positions Gained* metric).
 * **Tools:** `SQLite`, `JOINs`, `CTEs`, `Data Cleaning`.
-* 
+  
 * -- Tworzenie zoptymalizowanego widoku dla raportów w Excelu
 -- Creating an optimized view for Excel reporting automation
 CREATE VIEW v_Driver_Scorecard_Final AS
