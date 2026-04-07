@@ -86,8 +86,8 @@
       End Sub
 
 ### 3️⃣ Visual Analytics (Power BI)
-* **PL:** Interaktywny dashboard (Vegas Night Theme) analizujący wyniki konstruktorów. Wykorzystanie zaawansowanych technik UX dla lepszej czytelności danych.
-* **EN:** Interactive dashboard (Vegas Night Theme) analyzing constructor performance. Advanced UX techniques used for better data storytelling.
+* **PL:** Interaktywny dashboard (Vegas Night Theme) analizujący wyniki. Wykorzystanie zaawansowanych technik UX dla lepszej czytelności danych.
+* **EN:** Interactive dashboard (Vegas Night Theme) analyzing performance. Advanced UX techniques used for better data storytelling.
 * **Tools:** `DAX`, `Bookmarks`, `Selection Pane`, `Conditional Formatting`.
 
 ### Power BI Model
