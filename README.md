@@ -96,17 +96,17 @@
 ---
 
 ## 📊 Key Insights / Kluczowe Wnioski
-[PL] Dominacja Liderów (Hamilton vs Verstappen): Analiza danych historycznych potwierdza ogromną polaryzację stawki; Lewis Hamilton i Max Verstappen zdecydowanie „uciekli” reszcie stawki pod względem liczby zwycięstw i zdobytych punktów, co czyni ich wyniki statystycznie odstającymi (outliers) na tle pozostałych kierowców w badanym okresie.
+[PL] Verstappen i Hamilton razem zdobyli 31% wszystkich punktów sezonu 2019–2024 — przy 20 kierowcach na gridzie. Trzeci w rankingu Leclerc osiągnął zaledwie 59% wyniku lidera. To nie jest dominacja — to statystyczna anomalia.
 
-[EN] Leader Dominance (Hamilton vs Verstappen): Historical data analysis confirms significant grid polarization; Lewis Hamilton and Max Verstappen have significantly outpaced the rest of the field in terms of wins and points, making their results statistical outliers compared to all other drivers in the analyzed period.
+[EN] Verstappen and Hamilton combined for 31% of all points scored across the 2019–2024 seasons — with 20 drivers on the grid. Third-placed Leclerc reached only 59% of the leader's tally. This isn't dominance — it's a statistical anomaly.
 
-[PL] Analiza "Grand Prix" vs Tradycyjne Tory: Porównanie widoków Wins by Years oraz Wins by Grand Prix pozwala zauważyć, że niektóre zespoły (jak Ferrari) utrzymują dominację na klasycznych torach, podczas gdy nowsze wyścigi (np. w USA/Vegas) są silniej zdominowane przez aktualnych liderów technologicznych.
+[PL] W erze dominacji Red Bulla (2019–2024) Verstappen osiągnął podium w 70% wyścigów, podczas gdy jego partner teamowy Pérez jedynie w 24,6%. Ten sam samochód, ta sama infrastruktura — różnica 3x. To dowód, że w F1 tego okresu dominował jeden kierowca, nie jeden zespół.
 
-[EN] Grand Prix vs Traditional Tracks: Comparing Wins by Years and Wins by Grand Prix views reveals that some teams (like Ferrari) maintain dominance on classic circuits, while newer races (e.g., USA/Vegas) are more heavily dominated by current technological leaders.
+[EN] During Red Bull's dominant era (2019–2024), Verstappen stood on the podium in 70% of races, while teammate Pérez managed just 24.6%. Same car, same infrastructure — a 3x gap. This proves that what dominated this era wasn't a team, but a single driver.
 
-[PL] Skuteczność Narodowościowa (Nationality Filter): Analiza filtrów narodowościowych w modelu wskazuje, że brytyjska myśl techniczna (UK) dominuje w stawce nie tylko pod względem liczby punktów, ale również największej różnorodności zespołów, które odniosły sukces w badanym okresie.
+[PL] Zaskakujący wniosek: pomimo powszechnej opinii o dominacji brytyjskiej myśli technicznej w F1, dane z lat 2019–2024 pokazują inaczej — Red Bull (Austria) zdobył 3 350 pkt i wygrał 63 wyścigi, podczas gdy wszystkie zespoły brytyjskie łącznie zebrały 2 500 pkt (~19% całego gridu). To era Verstappena, nie UK.
 
-[EN] National Efficiency (Nationality Filter): Analyzing nationality filters within the model shows that British engineering (UK) dominates the grid not only in total points but also in having the widest variety of successful teams in the analyzed period.
+[EN] Surprising insight: despite the widely held belief that British engineering dominates F1, the 2019–2024 data tells a different story — Red Bull (Austria) scored 3,350 pts and won 63 races, while all British teams combined collected just 2,500 pts (~19% of the total grid. This is Verstappen's era, not the UK's.
 
 ---
 
